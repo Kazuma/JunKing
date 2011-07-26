@@ -1,3 +1,3 @@
-# Kazuma's Junkfiles Folder
+# Kazuma's Junkfiles Repository
 
 Author: Kazuma Muramatsu @m\_zuma
